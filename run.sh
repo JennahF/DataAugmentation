@@ -28,10 +28,10 @@ echo "start pretraining "${modelname}
 python train.py --modelname ${modelname} --modelnum ${modelnum} --resultnum ${resultnum} --loadmodel ${loadmodel} --modelfilename ${loadmodelname} --startepoch ${startepoch} --posNum ${posNum} --l2 ${l2_1} --seed ${seed} --epoch ${epoch1} --dataset ${dataset} --negNum ${negNum} --lr ${lr1} --bs ${bs1} --maxbound ${maxbound} 
 
 echo "\nstart training "${modelname}" 1"
-python classify1.py --modelname ${modelname} --modelnum ${modelnum} --resultnum ${resultnum} --dataset ${dataset} --l2 ${l2_2} --seed ${seed} --lr ${lr2} --batch_size ${bs2} --epoch ${epoch2} --gpu ${gpu}
+python classify.py --modelname ${modelname} --modelnum ${modelnum} --resultnum ${resultnum} --dataset ${dataset} --l2 ${l2_2} --seed ${seed} --lr ${lr2} --batch_size ${bs2} --epoch ${epoch2} --gpu ${gpu}
 
 echo "\nstart training "${modelname}" 2"
-python classify1.py --modelname ${modelname} --modelnum ${modelnum} --resultnum ${resultnum} --dataset ${dataset} --l2 ${l2_2} --seed ${seed} --modelfilename ${modelfilename} --use_aug 1 --lr ${lr2} --batch_size ${bs2} --epoch ${epoch2} --gpu ${gpu}
+python classify.py --modelname ${modelname} --modelnum ${modelnum} --resultnum ${resultnum} --dataset ${dataset} --l2 ${l2_2} --seed ${seed} --modelfilename ${modelfilename} --use_aug 1 --lr ${lr2} --batch_size ${bs2} --epoch ${epoch2} --gpu ${gpu}
 
 echo "\nstart testing"
 # python test.py --dataset ${dataset} --modelname ${modelname}
