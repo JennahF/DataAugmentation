@@ -1,0 +1,4 @@
+2021-05-18 11:18:00,153 - classify.py[line:66] - INFO: Namespace(batch_size=256, dataset='Subj', epoch=80, gpu=1, l2=0.001, lr=0.001, modelname='TextCNN', modelnum=0, resultnum=88, seed=2, use_aug=0)
+2021-05-18 11:18:04,460 - classify.py[line:132] - INFO: {'word_embedding_dimension': 300, 'Epoch1': 5, 'Epoch2': 80, 'dropout': 0.1, 'label_num': 2, 'learning_rate1': 1e-05, 'learning_rate2': 0.001, 'batch_size': 256, 'cuda': 1, 'negSampleNum': 3, 'poSampleNum': 1, 'max_bound': 1, 'kernel_sizes': [2, 3, 4, 5], 'hidden_size': 256, 'hidden_layers': 1, 'bidirectional': True}
+2021-05-18 11:18:04,754 - classify.py[line:138] - INFO: before training: 0.4789789617061615
+2021-05-18 11:18:04,754 - classify.py[line:151] - INFO: ...start training...

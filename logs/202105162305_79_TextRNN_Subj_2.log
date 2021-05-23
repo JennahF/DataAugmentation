@@ -1,0 +1,10 @@
+2021-05-16 23:05:59,052 - classify.py[line:68] - INFO: Namespace(batch_size=64, dataset='Subj', epoch=80, gpu=1, l2=0.0001, lr=0.1, modelname='TextRNN', modelnum=0, seed=2, use_aug=0)
+2021-05-16 23:06:06,018 - classify.py[line:121] - INFO: {'word_embedding_dimension': 300, 'Epoch1': 5, 'Epoch2': 80, 'dropout': 0.1, 'label_num': 2, 'learning_rate1': 1e-05, 'learning_rate2': 0.1, 'batch_size': 64, 'cuda': 1, 'negSampleNum': 3, 'max_bound': 1, 'kernel_sizes': [3, 4, 5], 'hidden_size': 256, 'hidden_layers': 1, 'bidirectional': True}
+2021-05-16 23:06:06,350 - classify.py[line:127] - INFO: before training: 0.4809809625148773
+2021-05-16 23:06:06,350 - classify.py[line:139] - INFO: ...start training...
+2021-05-16 23:06:16,295 - classify.py[line:167] - INFO: Epoch 0, toal_loss 167.1179, aver loss 1.3369, train accuracy 0.5857, test accuracy 0.5190
+2021-05-16 23:06:25,039 - classify.py[line:167] - INFO: Epoch 1, toal_loss 102.3573, aver loss 0.4094, train accuracy 0.6021, test accuracy 0.5120
+2021-05-16 23:06:33,948 - classify.py[line:167] - INFO: Epoch 2, toal_loss 100.6898, aver loss 0.2685, train accuracy 0.6178, test accuracy 0.5305
+2021-05-16 23:06:42,951 - classify.py[line:167] - INFO: Epoch 3, toal_loss 99.5947, aver loss 0.1992, train accuracy 0.6367, test accuracy 0.5330
+2021-05-16 23:06:53,062 - classify.py[line:167] - INFO: Epoch 4, toal_loss 102.8951, aver loss 0.1646, train accuracy 0.6413, test accuracy 0.4835
+2021-05-16 23:07:01,770 - classify.py[line:167] - INFO: Epoch 5, toal_loss 104.3468, aver loss 0.1391, train accuracy 0.6294, test accuracy 0.5140

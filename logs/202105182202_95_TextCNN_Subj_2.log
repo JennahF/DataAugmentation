@@ -1,0 +1,1 @@
+2021-05-18 22:02:52,774 - classify.py[line:67] - INFO: Namespace(batch_size=64, dataset='Subj', epoch=80, gpu=1, l2=0.0001, lr=0.0001, modelfilename='', modelname='TextCNN', modelnum=0, resultnum=95, seed=1, use_aug=0)

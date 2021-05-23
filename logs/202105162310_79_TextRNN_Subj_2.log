@@ -1,0 +1,28 @@
+2021-05-16 23:10:02,961 - classify.py[line:68] - INFO: Namespace(batch_size=64, dataset='Subj', epoch=80, gpu=1, l2=0.001, lr=0.001, modelname='TextRNN', modelnum=0, seed=2, use_aug=0)
+2021-05-16 23:10:09,766 - classify.py[line:121] - INFO: {'word_embedding_dimension': 300, 'Epoch1': 5, 'Epoch2': 80, 'dropout': 0.1, 'label_num': 2, 'learning_rate1': 1e-05, 'learning_rate2': 0.001, 'batch_size': 64, 'cuda': 1, 'negSampleNum': 3, 'max_bound': 1, 'kernel_sizes': [3, 4, 5], 'hidden_size': 256, 'hidden_layers': 1, 'bidirectional': True}
+2021-05-16 23:10:10,480 - classify.py[line:127] - INFO: before training: 0.4809809625148773
+2021-05-16 23:10:10,481 - classify.py[line:139] - INFO: ...start training...
+2021-05-16 23:10:17,144 - classify.py[line:167] - INFO: Epoch 0, toal_loss 87.1463, aver loss 0.6972, train accuracy 0.5124, test accuracy 0.5075
+2021-05-16 23:10:20,268 - classify.py[line:167] - INFO: Epoch 1, toal_loss 86.6339, aver loss 0.3465, train accuracy 0.5152, test accuracy 0.5085
+2021-05-16 23:10:23,417 - classify.py[line:167] - INFO: Epoch 2, toal_loss 86.5537, aver loss 0.2308, train accuracy 0.5191, test accuracy 0.5110
+2021-05-16 23:10:26,502 - classify.py[line:167] - INFO: Epoch 3, toal_loss 86.5553, aver loss 0.1731, train accuracy 0.5219, test accuracy 0.5190
+2021-05-16 23:10:29,722 - classify.py[line:167] - INFO: Epoch 4, toal_loss 86.5418, aver loss 0.1385, train accuracy 0.5253, test accuracy 0.5165
+2021-05-16 23:10:32,757 - classify.py[line:167] - INFO: Epoch 5, toal_loss 86.5321, aver loss 0.1154, train accuracy 0.5276, test accuracy 0.5230
+2021-05-16 23:10:35,896 - classify.py[line:167] - INFO: Epoch 6, toal_loss 86.4806, aver loss 0.0988, train accuracy 0.5274, test accuracy 0.5165
+2021-05-16 23:10:39,008 - classify.py[line:167] - INFO: Epoch 7, toal_loss 86.4664, aver loss 0.0865, train accuracy 0.5297, test accuracy 0.5225
+2021-05-16 23:10:42,105 - classify.py[line:167] - INFO: Epoch 8, toal_loss 86.4544, aver loss 0.0768, train accuracy 0.5307, test accuracy 0.5275
+2021-05-16 23:10:45,209 - classify.py[line:167] - INFO: Epoch 9, toal_loss 86.3953, aver loss 0.0691, train accuracy 0.5297, test accuracy 0.5170
+2021-05-16 23:10:48,297 - classify.py[line:167] - INFO: Epoch 10, toal_loss 86.3182, aver loss 0.0628, train accuracy 0.5382, test accuracy 0.5265
+2021-05-16 23:10:51,598 - classify.py[line:167] - INFO: Epoch 11, toal_loss 86.3097, aver loss 0.0575, train accuracy 0.5409, test accuracy 0.5115
+2021-05-16 23:10:55,931 - classify.py[line:167] - INFO: Epoch 12, toal_loss 86.2068, aver loss 0.0531, train accuracy 0.5403, test accuracy 0.5175
+2021-05-16 23:11:04,929 - classify.py[line:167] - INFO: Epoch 13, toal_loss 86.1445, aver loss 0.0492, train accuracy 0.5418, test accuracy 0.5155
+2021-05-16 23:11:15,029 - classify.py[line:167] - INFO: Epoch 14, toal_loss 86.1283, aver loss 0.0459, train accuracy 0.5437, test accuracy 0.5190
+2021-05-16 23:11:24,079 - classify.py[line:167] - INFO: Epoch 15, toal_loss 86.1456, aver loss 0.0431, train accuracy 0.5458, test accuracy 0.5195
+2021-05-16 23:11:32,763 - classify.py[line:167] - INFO: Epoch 16, toal_loss 86.1079, aver loss 0.0405, train accuracy 0.5493, test accuracy 0.5100
+2021-05-16 23:11:41,992 - classify.py[line:167] - INFO: Epoch 17, toal_loss 86.0499, aver loss 0.0382, train accuracy 0.5497, test accuracy 0.5115
+2021-05-16 23:11:51,284 - classify.py[line:167] - INFO: Epoch 18, toal_loss 85.7964, aver loss 0.0361, train accuracy 0.5458, test accuracy 0.5290
+2021-05-16 23:12:00,039 - classify.py[line:167] - INFO: Epoch 19, toal_loss 85.8365, aver loss 0.0343, train accuracy 0.5541, test accuracy 0.5250
+2021-05-16 23:12:09,292 - classify.py[line:167] - INFO: Epoch 20, toal_loss 85.7698, aver loss 0.0327, train accuracy 0.5571, test accuracy 0.5040
+2021-05-16 23:12:18,487 - classify.py[line:167] - INFO: Epoch 21, toal_loss 85.7099, aver loss 0.0312, train accuracy 0.5513, test accuracy 0.5035
+2021-05-16 23:12:27,371 - classify.py[line:167] - INFO: Epoch 22, toal_loss 85.6751, aver loss 0.0298, train accuracy 0.5601, test accuracy 0.5020
+2021-05-16 23:12:33,271 - classify.py[line:167] - INFO: Epoch 23, toal_loss 85.4703, aver loss 0.0285, train accuracy 0.5586, test accuracy 0.5055

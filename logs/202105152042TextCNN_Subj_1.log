@@ -1,0 +1,15 @@
+2021-05-15 20:42:13,336 - train.py[line:147] - INFO: train data loaded!
+2021-05-15 20:42:16,551 - train.py[line:161] - INFO: ...start training...
+2021-05-15 20:42:46,881 - train.py[line:98] - INFO: Epoch 0, 124 th batch, total loss: 6131.44, aver loss:  49.05, aver neg loss:   0.07;     30 s elapsed
+2021-05-15 20:43:15,869 - train.py[line:98] - INFO: Epoch 1, 124 th batch, total loss: 5185.92, aver loss:  41.49, aver neg loss:   0.11;     59 s elapsed
+2021-05-15 20:43:44,991 - train.py[line:98] - INFO: Epoch 2, 124 th batch, total loss: 4384.88, aver loss:  35.08, aver neg loss:   0.15;     88 s elapsed
+2021-05-15 20:44:13,712 - train.py[line:98] - INFO: Epoch 3, 124 th batch, total loss: 3798.41, aver loss:  30.39, aver neg loss:   0.19;    117 s elapsed
+2021-05-15 20:44:42,354 - train.py[line:98] - INFO: Epoch 4, 124 th batch, total loss: 3362.17, aver loss:  26.90, aver neg loss:   0.22;    146 s elapsed
+2021-05-15 20:45:10,838 - train.py[line:98] - INFO: Epoch 5, 124 th batch, total loss: 3058.06, aver loss:  24.46, aver neg loss:   0.24;    174 s elapsed
+2021-05-15 20:45:38,898 - train.py[line:98] - INFO: Epoch 6, 124 th batch, total loss: 2802.86, aver loss:  22.42, aver neg loss:   0.27;    202 s elapsed
+2021-05-15 20:46:06,997 - train.py[line:98] - INFO: Epoch 7, 124 th batch, total loss: 2606.05, aver loss:  20.85, aver neg loss:   0.29;    230 s elapsed
+2021-05-15 20:46:34,686 - train.py[line:98] - INFO: Epoch 8, 124 th batch, total loss: 2470.80, aver loss:  19.77, aver neg loss:   0.30;    258 s elapsed
+2021-05-15 20:47:01,833 - train.py[line:98] - INFO: Epoch 9, 124 th batch, total loss: 2323.72, aver loss:  18.59, aver neg loss:   0.32;    285 s elapsed
+2021-05-15 20:47:29,470 - train.py[line:98] - INFO: Epoch 10, 124 th batch, total loss: 2205.21, aver loss:  17.64, aver neg loss:   0.34;    313 s elapsed
+2021-05-15 20:47:56,288 - train.py[line:98] - INFO: Epoch 11, 124 th batch, total loss: 2121.73, aver loss:  16.97, aver neg loss:   0.35;    340 s elapsed
+2021-05-15 20:47:56,292 - train.py[line:110] - INFO: model saved!

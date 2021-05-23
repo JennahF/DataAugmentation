@@ -1,0 +1,160 @@
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 0
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+physical id	: 1
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz
+model name	: Intel(R) Xeon(R) Gold 6230 CPU @ 2.10GHz

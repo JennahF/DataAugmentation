@@ -1,0 +1,10 @@
+2021-05-19 22:32:04,151 - classify.py[line:68] - INFO: Namespace(batch_size=64, dataset='IMDB', epoch=50, gpu=1, l2=0.0001, lr=0.0001, modelfilename='', modelname='TextCNN', modelnum=0, resultnum=108, seed=1, use_aug=0)
+2021-05-19 22:32:34,864 - classify.py[line:134] - INFO: {'word_embedding_dimension': 300, 'Epoch1': 5, 'Epoch2': 50, 'dropout': 0.1, 'label_num': 2, 'learning_rate1': 1e-05, 'learning_rate2': 0.0001, 'batch_size': 64, 'cuda': 1, 'negSampleNum': 3, 'poSampleNum': 1, 'max_bound': 1, 'kernel_sizes': [3, 4, 5], 'hidden_size': 256, 'hidden_layers': 1, 'bidirectional': True}
+2021-05-19 22:32:35,807 - classify.py[line:140] - INFO: before training: 0.499500036239624
+2021-05-19 22:32:35,809 - classify.py[line:154] - INFO: ...start training...
+2021-05-19 22:33:01,781 - classify.py[line:184] - INFO: Epoch 0, toal_loss 55.6425, aver loss 0.7043, train accuracy 0.5599, train auc 0.0000, test accuracy 0.6160, test auc 0.0000
+2021-05-19 22:33:29,499 - classify.py[line:184] - INFO: Epoch 1, toal_loss 49.8939, aver loss 0.3158, train accuracy 0.6616, train auc 0.0000, test accuracy 0.6475, test auc 0.0000
+2021-05-19 22:33:54,811 - classify.py[line:184] - INFO: Epoch 2, toal_loss 45.8465, aver loss 0.1934, train accuracy 0.6998, train auc 0.0000, test accuracy 0.7015, test auc 0.0000
+2021-05-19 22:34:15,558 - classify.py[line:184] - INFO: Epoch 3, toal_loss 42.4741, aver loss 0.1344, train accuracy 0.7350, train auc 0.0000, test accuracy 0.7170, test auc 0.0000
+2021-05-19 22:34:36,689 - classify.py[line:184] - INFO: Epoch 4, toal_loss 39.6893, aver loss 0.1005, train accuracy 0.7502, train auc 0.0000, test accuracy 0.7195, test auc 0.0000
+2021-05-19 22:35:02,856 - classify.py[line:184] - INFO: Epoch 5, toal_loss 37.9669, aver loss 0.0801, train accuracy 0.7710, train auc 0.0000, test accuracy 0.7420, test auc 0.0000

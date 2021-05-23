@@ -1,0 +1,20 @@
+2021-05-19 15:46:21,810 - train.py[line:65] - INFO: {'word_embedding_dimension': 300, 'Epoch1': 15, 'Epoch2': 10, 'dropout': 0.1, 'label_num': 2, 'learning_rate1': 0.001, 'learning_rate2': 1e-05, 'batch_size': 64, 'cuda': True, 'negSampleNum': 5, 'poSampleNum': 1, 'max_bound': 0.8, 'kernel_sizes': [2, 3, 4, 5], 'hidden_size': 256, 'hidden_layers': 1, 'bidirectional': True}
+2021-05-19 15:46:21,811 - train.py[line:66] - INFO: Namespace(bs=64, dataset='PC', epoch=15, l2=0.001, lr=0.001, maxbound=0.8, modelname='TextCNN', modelnum='0', negNum=5, posNum=1, resultnum=104, runmode='train', seed=2)
+2021-05-19 15:46:24,584 - train.py[line:227] - INFO: train data loaded!
+2021-05-19 15:46:30,152 - train.py[line:242] - INFO: ...start training...
+2021-05-19 15:50:34,513 - train.py[line:165] - INFO: Epoch 0, 563 th batch, total loss: 29218.92, aver loss:  51.81, aver neg loss:   0.66, aver pos loss:   0.10, test acc:   0.83;    244 s elapsed
+2021-05-19 15:54:15,990 - train.py[line:165] - INFO: Epoch 1, 563 th batch, total loss: 19257.61, aver loss:  34.14, aver neg loss:   0.82, aver pos loss:   0.08, test acc:   0.84;    466 s elapsed
+2021-05-19 15:57:41,291 - train.py[line:165] - INFO: Epoch 2, 563 th batch, total loss: 18489.87, aver loss:  32.78, aver neg loss:   0.83, aver pos loss:   0.08, test acc:   0.84;    671 s elapsed
+2021-05-19 16:01:28,106 - train.py[line:165] - INFO: Epoch 3, 563 th batch, total loss: 18093.29, aver loss:  32.08, aver neg loss:   0.83, aver pos loss:   0.08, test acc:   0.84;    898 s elapsed
+2021-05-19 16:05:17,761 - train.py[line:165] - INFO: Epoch 4, 563 th batch, total loss: 17756.59, aver loss:  31.48, aver neg loss:   0.84, aver pos loss:   0.08, test acc:   0.84;   1128 s elapsed
+2021-05-19 16:08:22,589 - train.py[line:165] - INFO: Epoch 5, 563 th batch, total loss: 17610.81, aver loss:  31.22, aver neg loss:   0.84, aver pos loss:   0.08, test acc:   0.84;   1312 s elapsed
+2021-05-19 16:12:16,689 - train.py[line:165] - INFO: Epoch 6, 563 th batch, total loss: 17361.98, aver loss:  30.78, aver neg loss:   0.84, aver pos loss:   0.08, test acc:   0.84;   1547 s elapsed
+2021-05-19 16:14:45,664 - train.py[line:165] - INFO: Epoch 7, 563 th batch, total loss: 17231.79, aver loss:  30.55, aver neg loss:   0.85, aver pos loss:   0.08, test acc:   0.84;   1695 s elapsed
+2021-05-19 16:18:52,511 - train.py[line:165] - INFO: Epoch 8, 563 th batch, total loss: 17071.87, aver loss:  30.27, aver neg loss:   0.85, aver pos loss:   0.08, test acc:   0.84;   1942 s elapsed
+2021-05-19 16:22:51,845 - train.py[line:165] - INFO: Epoch 9, 563 th batch, total loss: 16964.95, aver loss:  30.08, aver neg loss:   0.85, aver pos loss:   0.08, test acc:   0.84;   2182 s elapsed
+2021-05-19 16:26:49,000 - train.py[line:165] - INFO: Epoch 10, 563 th batch, total loss: 16814.98, aver loss:  29.81, aver neg loss:   0.85, aver pos loss:   0.08, test acc:   0.84;   2419 s elapsed
+2021-05-19 16:30:39,224 - train.py[line:165] - INFO: Epoch 11, 563 th batch, total loss: 16750.34, aver loss:  29.70, aver neg loss:   0.85, aver pos loss:   0.08, test acc:   0.84;   2649 s elapsed
+2021-05-19 16:34:39,808 - train.py[line:165] - INFO: Epoch 12, 563 th batch, total loss: 16599.10, aver loss:  29.43, aver neg loss:   0.85, aver pos loss:   0.08, test acc:   0.84;   2890 s elapsed
+2021-05-19 16:38:27,629 - train.py[line:165] - INFO: Epoch 13, 563 th batch, total loss: 16591.32, aver loss:  29.42, aver neg loss:   0.85, aver pos loss:   0.08, test acc:   0.83;   3117 s elapsed
+2021-05-19 16:42:01,279 - train.py[line:165] - INFO: Epoch 14, 563 th batch, total loss: 16467.87, aver loss:  29.20, aver neg loss:   0.85, aver pos loss:   0.08, test acc:   0.84;   3331 s elapsed
+2021-05-19 16:42:01,282 - train.py[line:181] - INFO: model saved!

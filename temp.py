@@ -1,35 +1,40 @@
-import os
-from tqdm import tqdm
-import matplotlib.pyplot as plt 
+from utils.read import read_IMDB, read_Subj, read_TREC, read_PC, read_CoLA
+from collections import Counter
+import torch
+from model.TextCNN import TextCnn
+from model.BiLSTM import TextRNN
+from config import Config
 
+def count(labels):
+    print("train:",Counter(labels[0]))
 
-def main():
-    dirs=['./data/aclImdb_v1/aclImdb/train/pos/',
-        './data/aclImdb_v1/aclImdb/train/neg/',
-        './data/aclImdb_v1/aclImdb/test/pos/',
-        './data/aclImdb_v1/aclImdb/test/neg/']
+    print("test:",Counter(labels[1]))
 
+# all_docs, all_labels = read_IMDB(1)
+# print("IMDB")
+# count(all_labels)
 
-    files = [[dir + file for file in os.listdir(dir)] for dir in dirs]
+# all_docs, all_labels = read_Subj(1)
+# print("Subj")
+# count(all_labels)
 
-    maxlen = 2470
-    statistic = [0] * 25
-    for i in range(len(files)):
-        for file in tqdm(files[i]):
-            with open(file, 'r', encoding='utf8') as f:
-                review = f.readlines()
-                words = review[0].lower().split()
-                statistic[int(len(words)/100)] += 1
-    for i in range(len(statistic)-1):
-        statistic[i+1] += statistic[i]
-    X = [i for i in range(25)]
-    fig = plt.figure()
-    plt.bar(X,statistic,0.4,color="green")
-    
-    plt.show()
+# all_docs, all_labels = read_TREC(1)
+# print("TREC")
+# count(all_labels)
 
-# for dir in dirs:
-    # for _, _, files in os.walk(dir):
+# all_docs, all_labels = read_PC(1)
+# print("PC")
+# count(all_labels)
 
-if __name__ == '__main__':
-    main()
+all_docs, all_labels = read_CoLA(1,0)
+print("PC")
+count(all_labels)
+
+# checkpoint = torch.load("./model/trained_model/1IMDB_22/model_0.pt", map_location='cuda:0')
+# print(checkpoint['para'].__dict__)
+
+# checkpoint = torch.load("./model/trained_model/2Subj_25/model_1.pt", map_location='cuda:0')
+# print(checkpoint['para'])
+
+# checkpoint = torch.load("./model/trained_model/3TREC/model_0.pt", map_location='cuda:0')
+# print(checkpoint['para'])

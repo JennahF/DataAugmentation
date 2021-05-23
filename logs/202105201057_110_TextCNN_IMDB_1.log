@@ -1,0 +1,4 @@
+2021-05-20 10:57:52,100 - train.py[line:65] - INFO: {'word_embedding_dimension': 300, 'Epoch1': 30, 'Epoch2': 10, 'dropout': 0.1, 'label_num': 2, 'learning_rate1': 0.001, 'learning_rate2': 1e-05, 'batch_size': 128, 'cuda': True, 'negSampleNum': 16, 'poSampleNum': 1, 'max_bound': 0.7, 'kernel_sizes': [3, 4, 5], 'hidden_size': 256, 'hidden_layers': 1, 'bidirectional': True}
+2021-05-20 10:57:52,102 - train.py[line:66] - INFO: Namespace(bs=128, dataset='IMDB', epoch=30, l2=0.001, lr=0.001, maxbound=0.7, modelname='TextCNN', modelnum='0', negNum=16, posNum=1, resultnum=110, runmode='train', seed=1)
+2021-05-20 10:58:00,543 - train.py[line:227] - INFO: train data loaded!
+2021-05-20 10:58:08,823 - train.py[line:242] - INFO: ...start training...

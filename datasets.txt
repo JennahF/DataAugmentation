@@ -1,0 +1,20 @@
+
+IMDB
+train: Counter({1: 12500, 0: 12500})
+test: Counter({1: 12500, 0: 12500})
+
+Subj
+train: Counter({1: 4000, 0: 3999})
+test: Counter({1: 999, 0: 999})
+
+TREC
+train: Counter({0: 1250, 1: 1223, 2: 1161, 3: 896, 4: 835, 5: 86})
+test: Counter({2: 138, 3: 113, 0: 94, 4: 81, 1: 65, 5: 9})
+
+PC
+train: Counter({1: 18284, 0: 18109})
+test: Counter({1: 4475, 0: 4360})
+
+CoLA
+train: Counter({1: 6023, 0: 2528})
+test: Counter({1: 354, 0: 162})

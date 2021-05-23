@@ -1,0 +1,5 @@
+2021-05-18 11:16:12,391 - train.py[line:60] - INFO: {'word_embedding_dimension': 300, 'Epoch1': 20, 'Epoch2': 10, 'dropout': 0.1, 'label_num': 2, 'learning_rate1': 0.0001, 'learning_rate2': 1e-05, 'batch_size': 64, 'cuda': True, 'negSampleNum': 5, 'poSampleNum': 3, 'max_bound': 1.0, 'kernel_sizes': [2, 3, 4, 5], 'hidden_size': 256, 'hidden_layers': 1, 'bidirectional': True}
+2021-05-18 11:16:12,391 - train.py[line:61] - INFO: Namespace(bs=64, dataset='Subj', epoch=20, l2=0.001, lr=0.0001, maxbound=1.0, modelname='TextCNN', modelnum='0', negNum=5, posNum=3, resultnum=88, runmode='train', seed=2)
+2021-05-18 11:16:15,312 - train.py[line:216] - INFO: train data loaded!
+2021-05-18 11:16:20,560 - train.py[line:230] - INFO: ...start training...
+2021-05-18 11:17:58,447 - train.py[line:159] - INFO: Epoch 0, 124 th batch, total loss: 22185.35, aver loss: 177.48, aver neg loss:   0.31, aver pos loss:   0.11, test acc:   0.68;     98 s elapsed

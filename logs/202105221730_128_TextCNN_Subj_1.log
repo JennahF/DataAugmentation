@@ -1,0 +1,7 @@
+2021-05-22 17:30:54,284 - train.py[line:68] - INFO: {'word_embedding_dimension': 300, 'Epoch1': 20, 'Epoch2': 10, 'dropout': 0.1, 'label_num': 2, 'learning_rate1': 0.0001, 'learning_rate2': 1e-05, 'batch_size': 64, 'cuda': True, 'negSampleNum': 3, 'poSampleNum': 1, 'max_bound': 1.0, 'kernel_sizes': [2, 3, 4, 5], 'hidden_size': 256, 'hidden_layers': 1, 'bidirectional': True}
+2021-05-22 17:30:54,284 - train.py[line:69] - INFO: Namespace(bs=64, dataset='Subj', epoch=20, l2=1e-05, loadmodel=0, lr=0.0001, maxbound=1.0, modelfilename='110_Epoch_12_model_1_12_0.708.pt', modelname='TextCNN', modelnum='0', negNum=3, posNum=1, resultnum=128, runmode='train', seed=1, startepoch=0)
+2021-05-22 17:30:54,284 - train.py[line:278] - INFO: pos,neg Num=1,11
+2021-05-22 17:30:55,248 - train.py[line:237] - INFO: train data loaded!
+2021-05-22 17:30:58,677 - train.py[line:262] - INFO: ...start training...
+2021-05-22 17:31:35,743 - train.py[line:168] - INFO: Epoch 0, 124 th batch, total loss: 14418.31, aver loss: 115.35, aver neg loss:   0.26, aver pos loss:   0.08, test acc:   0.49;     37 s elapsed
+2021-05-22 17:32:09,206 - train.py[line:168] - INFO: Epoch 1, 124 th batch, total loss: 9693.82, aver loss:  77.55, aver neg loss:   0.47, aver pos loss:   0.10, test acc:   0.49;     71 s elapsed
